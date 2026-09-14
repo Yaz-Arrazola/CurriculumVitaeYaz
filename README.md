@@ -17,11 +17,7 @@ Formación Académica
 
 Lenguajes y tecnologías 
 * Inglés A1
-* Java
-* HTML
-* SQL
   
-
 Habilidades Técnicas
 * Análisis de sistemas
 * Arquitectura de computadoras
