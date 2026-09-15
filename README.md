@@ -1,66 +1,31 @@
 # CurriculumVitaeYaz
 Curriculum Vitae del Ing. Yazmin Aguilar Arrazola
 
-Buenos días soy Yazmin Aguilar Arrazola, estudiante de la licenciatura de Ingeniería en sistemas computacionales 
+Sobre mí: 
+Soy estudiante de Ingeniería en Sistemas Computacionales con un interés particular en comprender el funcionamiento interno de los sistemas de cómputo, desde el hardware hasta las redes que lo conectan. Me enfoco en arquitectura de computadoras y electrónica, y complemento mi formación con conocimientos en bases de datos y telecomunicaciones. Disfruto entender cómo funcionan los equipos "por dentro" y busco convertir esa curiosidad en experiencia práctica de diagnóstico, mantenimiento y optimización de sistemas.
 
-Sobre mí 
-Soy estudiante de Ingeniería en Sistemas Computacionales con interés en comprender el funcionamiento interno de 
-los sistemas de cómputo. Me enfoco principalmente en áreas como la arquitectura de computadoras y la electrónica, 
-además de tener interés en bases de datos y telecomunicaciones, buscando fortalecer mis conocimientos técnicos y 
-analíticos en estas áreas.
+Formación Académica: 
+Actualmente curso la Licenciatura en Ingeniería en Sistemas Computacionales en el Centro Universitario Hidalguense (CUH), desde septiembre de 2024 hasta la actualidad.
 
+Idiomas: 
+Tengo un nivel básico (A1) de inglés, el cual me encuentro fortaleciendo actualmente.
 
-Formación Académica
-* Centro Universitario Hidalguense (CUH)
-* Licenciatura en Ingeniería en Sistemas Computacionales
-* Septiembre 2024 - Actualidad
+Habilidades y Conocimientos Técnicos: 
+Entre mis habilidades técnicas destacan el análisis de sistemas, el diagnóstico y resolución de problemas técnicos, el trabajo en equipo y la comunicación técnica. A nivel de conocimientos, manejo fundamentos de arquitectura de computadoras, electrónica básica, telecomunicaciones y bases de datos, además de experiencia práctica en mantenimiento y ensamble de equipo de cómputo.
 
-Lenguajes y tecnologías 
-* Inglés A1
-  
-Habilidades Técnicas
-* Análisis de sistemas
-* Arquitectura de computadoras
-* Fundamentos de electrónica
-* Fundamentos de telecomunicaciones
-* Resolución de problemas
-* Trabajo en equipo
+Áreas de Interés: 
+Mis áreas de interés giran en torno a la electrónica aplicada, el hardware y la arquitectura de sistemas, las telecomunicaciones, las bases de datos, y el soporte y mantenimiento de equipos.
 
+Proyectos Académicos: 
+He desarrollado proyectos como el ensamble y mantenimiento de equipo de cómputo, un trabajo práctico enfocado en el armado, diagnóstico y mantenimiento preventivo y correctivo de equipos, aplicando mis conocimientos de hardware. También participé en Tianguistore
 
-Conocimientos Técnicos
-* Arquitectura de computadoras
-* Electrónica básica
-* Telecomunicaciones (básico)
-* Mantenimiento de equipos de cómputo
-* Bases de datos (básico)
-  
+Pueden encontrarme a través de mi GitHub en https://github.com/Yaz-Arrazola, por correo electrónico en yazminaguilararrazola193@gmail.com o por WhatsApp al 7714218404.
 
-Áreas de Interés
-* Electrónica aplicada
-* Hardware
-* Telecomunicaciones
-* Bases de datos
-* Soporte y mantenimiento de equipos
+Objetivo Profesional: 
+Mi objetivo es desarrollarme en el área de hardware, telecomunicaciones y arquitectura de computadoras, adquiriendo experiencia en mantenimiento, diagnóstico y optimización de sistemas de cómputo.
 
-Proyectos Académicos
-* Ensamble y mantenimiento de equipo de cómputo
-* Tianguistore
-
-
- Enlaces Profesionales
-* GitHub: https://github.com/Yaz-Arrazola
-* Email: yazminaguilararrazola193@gmail.com
-* WhatsApp: 7714218404
-
-
-Objetivo Profesionaal:
-desarrollarme en el área de hardware, telecomunicaciones y arquitectura de computadoras, adquiriendo experiencia en mantenimiento, diagnóstico y optimización de sistemas de cómputo.
-
-
-Mí visión a 4 años:
-me visualizo como una profesional con sólidos conocimientos en arquitectura de computadoras, telecomunicaciones y bases de datos, capaz de participar en proyectos tecnológicos enfocados en infraestructura, hardware y redes. Busco seguir aprendiendo, especializarme en estas áreas y adquirir experiencia práctica que me permita aportar soluciones eficientes en el ámbito tecnológico.
-
-
+Mi Visión a 4 Años: 
+Me visualizo como una profesional con sólidos conocimientos en arquitectura de computadoras, telecomunicaciones y bases de datos, capaz de participar en proyectos tecnológicos enfocados en infraestructura, hardware y redes. Busco seguir aprendiendo, especializarme en estas áreas y adquirir experiencia práctica que me permita aportar soluciones eficientes en el ámbito tecnológico.
 
 
 
